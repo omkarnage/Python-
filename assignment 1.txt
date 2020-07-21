@@ -1,0 +1,23 @@
+Q.1 what is Python? 
+   Python is an interpreted, general-purpose programming language.Python is object-oriented, high-level programming language with dynamic semantics.
+   Python's simple, easy to learn syntax emphasizes readability and therefore reduces the cost of program maintenance. Python supports modules and packages
+   It is open source language which makes it free for everyone.Created by Guido van Rossum in 1991 and became popular in 2006.
+   In the year 2006 google used this language in many platforms like google search.
+
+What are the ways to install python in your pc?
+a) From python official website
+b) From anaconda navigator official website
+   1)Downlaod anaconda navigator.(Windows, Mac, Linux,etc).
+   2)And launch libraries like jupyter notebook,spyder etc
+c) Using Google colab 
+
+
+Q.2 What are code environments?
+A code environment is a standalone and self-contained environment to run Python. 
+Each code environment has its own set of packages. 
+Environments are independent: you can install different packages or different versions of packages in different environments without interaction between them.
+
+Types of codes?
+1. Text Editors   Example: Notepad,Visual studio.
+2. Integrated Development Environment(IDE)   Example: Spyder.
+3. Notebook Environment   Example: Jupyte.
